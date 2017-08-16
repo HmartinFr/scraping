@@ -1,0 +1,1 @@
+ford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html
