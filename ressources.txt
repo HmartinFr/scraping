@@ -1,1 +1,2 @@
 ford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html
+http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx2/notebooks/TD2A_Eco_Web_Scraping_enonce.html
